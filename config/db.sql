@@ -1,0 +1,1 @@
+CREATE DATABASE node_base;
